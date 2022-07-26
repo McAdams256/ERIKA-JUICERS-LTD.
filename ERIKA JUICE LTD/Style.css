@@ -1,0 +1,16 @@
+ <style>
+          h1 {text-align: center; font-family:'Times New Roman', Times, serif;color: green;font-size:xx-large;}
+          h2 {text-align: center;font-family: 'Times New Roman', Times, serif;color: green;font-size: large;}
+          h3 {text-align: end;font-family: 'Times New Roman';font-size: x-large;color: green;}
+          h4 {text-align: end;color: green;}
+          hr {
+              height: 12px;
+              background-color: green ;
+          }
+          h1 {text-align: center; font-family:'Times New Roman', Times, serif;color: green;font-size:xx-large;}
+          body{background-image: url("logo.png");font-family: serif;color: rgb(1, 129, 59);}
+          p {text-align: end; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: oblique;font-size: large;}
+          li {text-align: end;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: italic;font-size: large;}
+      ol {color: green;}
+      ul{color: rgb(1, 129, 59);}
+      </style>
